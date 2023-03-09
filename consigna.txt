@@ -1,0 +1,12 @@
+Marcas y Canales
+Reconocer las tipologías del conjunto de datos, de los datos y de sus atributos.  
+Exploración visual en Plot. Elegir una propiedad del conjunto de datos y codificarla visualmente eligiendo una marca y un canal de codificación. ¿En el mismo gráfico, se puede visualizar otra propiedad con la misma marca y otro canal? ¿Se puede visualizar otra propiedad agregando otra marca?
+¿Es eficaz la visualización? Probar de visualizar la misma propiedad con otra marca. 
+Crear un nuevo proyecto y repetir los puntos B y C cambiando de atributo.
+
+Les proponemos reutilizar los códigos del apunte de Marcas y Canales visto en clase, a los cuales pueden acceder desde acá. 
+
+
+Diseño y edición I
+Del total de visualizaciones creadas seleccionar las cuatro más efectivas. Ajustar el diseño de cada uno de los gráficos: definir el formato, mejorar los elementos textuales (ticks, leyendas, etc.). Destacar datos importantes del gráfico con color y texto. Agregar leyendas que expliquen la codificación del color si es necesario.
+
